@@ -1,0 +1,7 @@
+.rvmrc
+Gemfile
+Gemfile.lock
+api.token
+*.gem
+.idea
+.track_config

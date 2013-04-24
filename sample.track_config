@@ -1,0 +1,6 @@
+{
+	"pivotal_tracker" => {
+		"api_token" => "<your api token here>",
+		"project_id" => "<your project id found in the url of the tracker page>"
+	}
+}

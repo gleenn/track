@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require_relative "../lib/track"
+
+Track.new.print_git_line
